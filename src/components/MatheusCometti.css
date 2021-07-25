@@ -1,0 +1,8 @@
+.aluno {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  font-size: 16px;
+  text-align: right;
+  margin: 4px;
+}

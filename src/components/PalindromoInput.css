@@ -1,0 +1,24 @@
+.body {
+  display: grid;
+  border: 0.5px;
+  border-color: #333;
+}
+
+.body > * {
+  margin: 5px;
+}
+
+.true {
+  color: green;
+}
+
+.false {
+  color: red;
+}
+
+.input {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  line-height: 32px;
+}
